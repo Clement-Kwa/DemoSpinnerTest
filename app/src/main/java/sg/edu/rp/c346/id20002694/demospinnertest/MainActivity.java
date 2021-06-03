@@ -9,7 +9,7 @@ import android.widget.Spinner;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
+    //clement kwa 20002694
     Spinner spinner;
     TextView tv;
 
